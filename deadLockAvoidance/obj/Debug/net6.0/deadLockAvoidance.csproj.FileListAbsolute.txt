@@ -1,0 +1,17 @@
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\bin\Debug\net6.0\deadLockAvoidance.exe
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\bin\Debug\net6.0\deadLockAvoidance.deps.json
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\bin\Debug\net6.0\deadLockAvoidance.runtimeconfig.json
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\bin\Debug\net6.0\deadLockAvoidance.dll
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\bin\Debug\net6.0\deadLockAvoidance.pdb
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.csproj.AssemblyReference.cache
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.AssemblyInfoInputs.cache
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.AssemblyInfo.cs
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.csproj.CoreCompileInputs.cache
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.csproj.CopyComplete
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.dll
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\refint\deadLockAvoidance.dll
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.pdb
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\deadLockAvoidance.genruntimeconfig.cache
+C:\Users\sajad\source\repos\deadLockAvoidance\deadLockAvoidance\obj\Debug\net6.0\ref\deadLockAvoidance.dll
